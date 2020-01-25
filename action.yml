@@ -1,6 +1,6 @@
-name: "S3 Sync"
-description: "Sync a directory to an AWS S3 repository"
-author: jakejarvis
+name: "S3 cp action"
+description: "Copy files to an AWS S3 bucket"
+author: arcezd
 runs:
   using: docker
   image: Dockerfile
